@@ -1,0 +1,13 @@
+img[alt="git revert and reset"],
+img[alt="gitflow master and develop"],
+img[alt="gitflow feature"],
+img[alt="gitflow release"],
+img[alt="gitflow hotfix"],
+img[alt="flowchart"]{
+  max-height: 500px;
+}
+
+img[alt="deal with git"],
+img[alt="branches"] {
+  max-height: 450px;
+}

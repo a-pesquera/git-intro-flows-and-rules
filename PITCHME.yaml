@@ -1,0 +1,3 @@
+theme : sky
+theme-override : assets/style.css 
+background-size : contain
